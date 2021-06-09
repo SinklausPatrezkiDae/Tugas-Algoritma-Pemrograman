@@ -6,7 +6,7 @@
 import os 
 clear = lambda : os.system('cls')
 jwb = "y"
-while jwb == "y" or jwb == "t" :
+while jwb == "y" or jwb == "Y" :
     clear()
     print("--- PROGRAM HITUNG NILAI TOTAL TRANSAKSI PRINTER EPSON T20 ---")
     print("--------------------------------------------------------------")

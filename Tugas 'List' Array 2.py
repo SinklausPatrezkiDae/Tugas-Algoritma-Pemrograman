@@ -61,7 +61,7 @@ while jwb == 'y' or jwb == 'Y' :
         print('PPN 1%')
         print('-------------------------------------------------------')
         print('Merek Oli                  = ',merek_oli[idx])
-        print('Harga Oli              = ',format(harga[idx],',.2f'))
+        print('Harga Oli                  = ',format(harga[idx],',.2f'))
         print('Total Harga                = ',format(totHrgsblmppn,',.2f'))      
         print('-------------------------------------------------------')
         print('Total Harga Setelah PPN    = ',format(totHrg,',.2f'))
